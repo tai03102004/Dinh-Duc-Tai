@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb091f64-dc51-4305-b1da-09c2f27b31c6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Javs_csdl/src/Chuong1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javs_csdl/src/Chuong3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javs_csdl/src/index.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javs_csdl/src/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentManagent/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentManagent/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentManagent/src/StudentManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentManagent/src/StudentManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/.vs/Game/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/.vs/Game/v16/Browse.VC.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/.vs/Game/v16/Browse.VC.db-shm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/.vs/Game/v16/Browse.VC.db-wal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/.vs/Game/v16/Browse.VC.opendb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/.vs/Game/v16/ipch/AutoPCH/14ad239f58883536/GAMELOOP.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/.vs/Game/v16/ipch/AutoPCH/3faa6216824d6e13/GAMELOOP.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/.vs/Game/v16/ipch/AutoPCH/568f07a4cf58085b/PLAYER.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/.vs/Game/v16/ipch/AutoPCH/5cdb38790267bf78/OBJECT.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/.vs/Game/v16/ipch/AutoPCH/5e729f8dcff28685/TEXTUREMANAGER.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/.vs/Game/v16/ipch/AutoPCH/728df356ca60fdae/MAIN.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/.vs/Game/v16/ipch/AutoPCH/8c234cd1e8042f6f/BACKGROUND.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/.vs/Game/v16/ipch/AutoPCH/a7888b2a97fb960c/TEXTUREMANAGER.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/.vs/Game/v16/ipch/AutoPCH/a9640147967cb581/ROAD.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/.vs/Game/v16/ipch/AutoPCH/aeac30f031f965a6/PLAYER.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/.vs/ProjectSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/.vs/VSWorkspaceState.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/.vs/slnx.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Background.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Background.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Game.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Game.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Game.vcxproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/GameLoop.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/GameLoop.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Image/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Image/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Image/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Image/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Image/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Image/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Image/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Image/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Image/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Image/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Image/background-day.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Image/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Image/base.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Image/bird1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Image/bird2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Image/bird3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Image/gameover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Image/grass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Image/message.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Image/pipe-green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Image/yellowbird1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Image/yellowbird2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Image/yellowbird3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Object.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Object.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Player.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/Player.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/TextureManager.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/TextureManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/x64/Debug/Game.exe.recipe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/x64/Debug/Game.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/x64/Debug/Game.tlog/CL.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/x64/Debug/Game.tlog/CL.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/x64/Debug/Game.tlog/CL.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/x64/Debug/Game.tlog/Game.lastbuildstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/x64/Debug/Game.tlog/link.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/x64/Debug/Game.tlog/link.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/x64/Debug/Game.tlog/link.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/x64/Debug/vc142.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/Game/x64/Debug/vc142.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/x64/Debug/Game.ilk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDL-Tutorial-master 2/Game/x64/Debug/Game.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/controllers/admin/product.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/controllers/admin/product.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/controllers/client/product.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/controllers/client/product.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/helper/pagination.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/helper/pagination.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/public/admin/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/public/admin/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/public/admin/js/scriptProduct.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/public/admin/js/scriptProduct.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/public/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/public/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/public/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/public/js/scriptProduct.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/public/js/scriptProduct.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/public/uploads/1695736166709-user-it.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/routes/admin/product.route.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/routes/admin/product.route.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/routes/client/product.route.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/routes/client/product.route.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/views/admin/layouts/default.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/views/admin/layouts/default.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/views/admin/mixins/alert.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/views/admin/mixins/alert.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/views/admin/mixins/pagination.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/views/admin/mixins/pagination.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/views/admin/pages/products/create.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/views/admin/pages/products/create.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/views/admin/pages/products/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/views/admin/pages/products/index.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/views/client/layouts/defaultProduct.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/views/client/layouts/defaultProduct.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/views/client/pages/products/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/views/client/pages/products/index.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/views/client/partials/footer.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex2/TrangQuanLyBanHang/views/client/partials/footer.pug" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2WBYSpWkds8QlH1f4TYwJhu7p7P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb091f64-dc51-4305-b1da-09c2f27b31c6" name="Changes" comment="" />
+      <created>1696207447607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696207447607</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>149</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
